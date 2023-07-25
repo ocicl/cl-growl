@@ -1,0 +1,10 @@
+* cl-growl
+
+Common Lisp Growl client library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nklein/cl-growl.git   |
+| commit  | 7e48c68  |
+| systems | cl-growl |
+|---------+-------------------------------------------|
+
